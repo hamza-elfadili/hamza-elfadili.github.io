@@ -115,7 +115,7 @@ nav a:hover {
 .hero h1 {
   margin: 12px 0 4px;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(4.5rem, 10vw, 8rem);
+  font-size: clamp(4.25rem, 8.5vw, 7rem);
   font-weight: 400;
   letter-spacing: -0.075em;
   line-height: 0.95;
@@ -316,7 +316,7 @@ footer a:hover {
   }
 
   .hero h1 {
-    font-size: clamp(4rem, 23vw, 6.5rem);
+    font-size: clamp(3.75rem, 20vw, 5.75rem);
   }
 
   .portrait-mark {
