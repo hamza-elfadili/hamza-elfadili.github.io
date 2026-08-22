@@ -36,7 +36,7 @@ a {
 
 a:focus-visible {
   border-radius: 3px;
-  outline: 3px solid var(--accent-soft);
+  outline: 3px solid var(--accent);
   outline-offset: 4px;
 }
 
